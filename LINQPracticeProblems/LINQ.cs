@@ -47,6 +47,7 @@ namespace LINQPracticeProblems
         //};
         //        Expected output: 86.125
 
+
         public static string[] RemoveLowestNumber(string item)
         {
             //convert all indexes to an array of ints
@@ -55,7 +56,8 @@ namespace LINQPracticeProblems
             return output.ToArray();
         }
 
-        
+        //average remaining ints in new output array
+        public static GetAverageGradesOfStudent()
 
 
 

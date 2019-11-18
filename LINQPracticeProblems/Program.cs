@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace LINQPracticeProblems
 {
-    public class Program
+    class Program
     {
-
-       
+        static void Main(string[] args)
+        {
+            LINQ linq = new LINQ();
+            linq.FindSubString();
+            linq.ReturnListWithoutDuplicates();
+        }
+        
 
     }
    

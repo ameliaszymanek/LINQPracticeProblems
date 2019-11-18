@@ -13,6 +13,7 @@ namespace LINQPracticeProblems
             LINQ linq = new LINQ();
             linq.FindSubString();
             linq.ReturnListWithoutDuplicates();
+            linq.ClassGradeAverage();
         }
         
 

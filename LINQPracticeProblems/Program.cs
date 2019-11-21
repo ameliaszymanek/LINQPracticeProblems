@@ -10,10 +10,12 @@ namespace LINQPracticeProblems
     {
         static void Main(string[] args)
         {
-            LINQ linq = new LINQ();
-            linq.FindSubString();
-            linq.ReturnListWithoutDuplicates();
-            linq.ClassGradeAverage();
+            //LINQ linq = new LINQ();
+            //linq.FindSubString();
+            //linq.ReturnListWithoutDuplicates();
+            //linq.ClassGradeAverage();
+            Console.WriteLine(LINQ.AlphabeticalString("amelia"));
+            Console.ReadLine();
         }
         
 

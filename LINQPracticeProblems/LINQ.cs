@@ -57,11 +57,21 @@ namespace LINQPracticeProblems
         }
 
         //average remaining ints in new output array
-        public static GetAverageGradesOfStudent()
+        //public static GetAverageGradesOfStudent()
 
 
+        //4. 
+        public static string AlphabitizeString(string input)
+        {
+            //change string to all uppercase letters
+            //order letters in string alphabetically
+            //put string into a new characer array (.ToCharArray())
+            //each character in string now has it's own index in array
+            //group by like characters(.GroupBy)
+            //the "key" is the specific characer, the "value" is it's count
+            //get character and count of how many characers there are
+            //return as a string(all keys and their values in line)
 
-
-
+        }
     }
 }
